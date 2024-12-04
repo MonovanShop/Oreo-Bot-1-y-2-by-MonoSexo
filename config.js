@@ -122,8 +122,8 @@ global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se
 global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = "𝙈𝙤𝙣𝙤𝙎𝙚𝙭𝙤-𝘽𝙤𝙩"
-global.author = "𝙈𝙤𝙣𝙤𝙎𝙚𝙭𝙤-𝘽𝙤𝙩"
+global.packname = "ᴏʀᴇᴏ ʙᴏᴛ"
+global.author = "ᴏʀᴇᴏ ʙᴏᴛ"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -131,7 +131,7 @@ global.author = "𝙈𝙤𝙣𝙤𝙎𝙚𝙭𝙤-𝘽𝙤𝙩"
 // [EN] > BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
-global.gt = "𝙈𝙤𝙣𝙤𝙎𝙚𝙭𝙤-𝘽𝙤𝙩"
+global.gt = "ᴏʀᴇᴏ ʙᴏᴛ"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
@@ -157,8 +157,8 @@ global.eg = '╰⊱💚⊱ *𝙀́𝙓𝙄𝙏𝙊 | 𝙎𝙐𝘾𝘾𝙀𝙎�
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "𝙈𝙤𝙣𝙤𝙎𝙚𝙭𝙤-𝘽𝙤𝙩"
-global.igfg = "𝙈𝙤𝙣𝙤𝙎𝙚𝙭𝙤-𝘽𝙤𝙩"
+global.wm = "ᴏʀᴇᴏ ʙᴏᴛ"
+global.igfg = "ᴏʀᴇᴏ ʙᴏᴛ"
 global.nomorown = "5215610035034"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
